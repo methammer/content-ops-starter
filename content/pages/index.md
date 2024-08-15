@@ -142,7 +142,7 @@ sections:
       - label: Get started
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: send
         iconPosition: right
         style: primary
