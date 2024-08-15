@@ -148,6 +148,15 @@ sections:
         style: primary
         elementId: ''
         type: Button
+      - type: Link
+        label: Send email
+        altText: Play
+        url: /
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge:
       label: This is a badge
       color: text-primary
