@@ -145,7 +145,7 @@ sections:
         showIcon: false
         icon: send
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
     badge:
